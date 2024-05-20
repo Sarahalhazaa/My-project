@@ -1,4 +1,4 @@
-# My-project
+# My project
 - My Laundry Android application - University graduation project
   
 https://github.com/Sarahalhazaa/My-Laundry-application.git
