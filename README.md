@@ -9,7 +9,7 @@ https://github.com/Sarahalhazaa/YourFarm.git
 
 - Backend of my laundry website
   
-https://github.com/Sarahalhazaa/my-laundry-website-.git
+https://github.com/Sarahalhazaa/My-Laundry-.git
 
 - Backend of chinese website
   
